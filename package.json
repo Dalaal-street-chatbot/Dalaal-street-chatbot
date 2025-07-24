@@ -1,0 +1,28 @@
+ {                                                                                                                                                    │
+ │     2   "name": "dalaal-street-bot-frontend",                                                                                                              │
+ │     3   "version": "0.1.0",                                                                                                                                │
+ │     4   "private": true,                                                                                                                                   │
+ │     5   "dependencies": {                                                                                                                                  │
+ │     6     "react": "^18.2.0",                                                                                                                              │
+ │     7     "react-dom": "^18.2.0",                                                                                                                          │
+ │     8     "typescript": "^4.9.5"                                                                                                                           │
+ │     9   },                                                                                                                                                 │
+ │    10   "scripts": {                                                                                                                                       │
+ │    11     "start": "react-scripts start",                                                                                                                  │
+ │    12     "build": "react-scripts build",                                                                                                                  │
+ │    13     "test": "react-scripts test",                                                                                                                    │
+ │    14     "eject": "react-scripts eject"                                                                                                                   │
+ │    15   },                                                                                                                                                 │
+ │    16   "browserslist": {                                                                                                                                  │
+ │    17     "production": [                                                                                                                                  │
+ │    18       ">0.2%",                                                                                                                                       │
+ │    19       "not dead",                                                                                                                                    │
+ │    20       "not op_mini all"                                                                                                                              │
+ │    21     ],                                                                                                                                               │
+ │    22     "development": [                                                                                                                                 │
+ │    23       "last 1 chrome version",                                                                                                                       │
+ │    24       "last 1 firefox version",                                                                                                                      │
+ │    25       "last 1 safari version"                                                                                                                        │
+ │    26     ]                                                                                                                                                │
+ │    27   }                                                                                                                                                  │
+ │    28 }          
